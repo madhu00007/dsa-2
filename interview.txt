@@ -1,0 +1,21 @@
+What Is DOCTYPE In HTML?
+
+When you open a website through the web browser. If you right click & go to inspect element then in the element section you can see the code written. And  inside the code if you scroll to the very first line. Then you can see the doctype declaration. It is the very firs thing written inside the code. It tells the browser which html version is  used. It is not case sensitive . The standard way of writing doctype in html 5 is <!DOCTYPE html>. It is written before the html tag. Different version of html has different way of writing doctype in html.
+
+What is difference between div and span in Html
+
+Those elements are used to structure the html. Div is a block level element & span is an inline element. Block level elements starts from a new line but inline elements does not start from a new line. BLock level elements takes width as much as possible. It stretches from left to right. And inline elements takes width as much as required to the text inside.
+
+Difference between Inline Elements and Block Level Elements in HTML
+
+Inline elements:
+Takes as much spaces they need and add contents without any line break.
+<strong></strong>
+<a></a>
+<img>
+
+Block level elements:
+Takes a full line or full width of a web page and creates a line break automatically.
+<p></p>
+<h1></h1>
+<div></div>
